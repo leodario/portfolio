@@ -1,0 +1,83 @@
+{
+  "name": "Leodário A R Júnior",
+  "photo": "https://avatars.githubusercontent.com/u/6862531?v=4",
+  "job": "Tech Lead na Uaine Group",
+  "location": "Vitória ES",
+  "phone": "(27) 99947-9546",
+  "email": "leodariojr@gmail.com",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "HTML",
+        "logo": "https://raw.githubusercontent.com/leodario/portfolio/main/data/imgs/html.png"
+      },
+      {
+        "name": "CSS",
+        "logo": "https://raw.githubusercontent.com/leodario/portfolio/main/data/imgs/css.png"
+      },
+      {
+        "name": "PHP",
+        "logo": "https://raw.githubusercontent.com/leodario/portfolio/main/data/imgs/php.png"
+      },
+      {
+        "name": "Javascript",
+        "logo": "https://raw.githubusercontent.com/leodario/portfolio/main/data/imgs/js.png"
+      },
+      {
+        "name": "MySQL",
+        "logo": "https://raw.githubusercontent.com/leodario/portfolio/main/data/imgs/mysql.png"
+      },
+      {
+        "name": "Postgresql",
+        "logo": "https://raw.githubusercontent.com/leodario/portfolio/main/data/imgs/postgresql.png"
+      }
+    ],
+    "softSkills": [
+      "Proativo",
+      "Empatia",
+      "Liderança",
+      "Trabalho em equipe",
+      "Flexibilidade",
+      "Organização"
+    ]
+  },
+  "languages": [
+    "Português BR",
+    "Inglês (intermediário)"
+    
+  ],
+  "portfolio": [
+    {
+      "name": "Criação de uma loja em  react",
+      "url": "https://github.com/leodario/loja-api",
+      "github": true
+    },
+    {
+      "name": "Customização em PHP woocommerce de uma loja de afiliados",
+      "url": "https://github.com/leodario/ecommerce_equiilibre",
+      "github": true
+    }
+  ],
+  "professionalExperience": [
+    {
+      "name": "Gestor E-commerce | TI",
+      "period": "2019 - até o momento",
+      "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
+    },
+    {
+      "name": "Tech Lead performace FAESA",
+      "period": "2016 - 2018",
+      "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
+    },
+    {
+      "name": "Coordenador E-commerce Eletrocity",
+      "period": "2014 - 2016",
+      "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
+    },
+    {
+      "name": "Tech Lead Front-End Domus Vini",
+      "period": "2012 - 2014",
+      "description": "Anos incríveis ao lado de pessoas maravilhosas, na qual aprendi muito e sou eternamente grato"
+    }
+  ]
+}
